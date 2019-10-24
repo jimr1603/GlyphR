@@ -5,7 +5,7 @@
 #' @param glyph_graph the glyph to plot.
 #'
 #' @return A gg object ready to accept + geom_node_\* and/or geom_edge_\*.
-#'
+#' @export
 
 ggliph <- function(glyph_graph){
   ggraph::create_layout(glyph_graph, "manual",
