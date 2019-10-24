@@ -10,3 +10,5 @@ Description: Ingress glyphs as tidygraph objects, with a custom plot layout. I a
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
+URL: https://github.com/jimr1603/GlyphR
+BugReports: https://github.com/jimr1603/GlyphR/issues
