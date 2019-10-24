@@ -2,7 +2,7 @@
 #'
 #' @param edges - a data.frame, or object coercable to, with the edges for the glyph.
 #' @return An (undirected) tidygraph containing those edges.
-#'
+#' @export
 
 
 glyph_graph <- function(edges){
